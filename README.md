@@ -19,6 +19,6 @@ Next, I added the navigation menu button to  the nav bar which will appear on mo
 In  feature section I placed the text  over of the image. The container for the feature section has a class of feature, which is custom classes added in the custom.css file. Because the text should take up all the real estate of the mobile device I added col xs 12 (for small devices , 12 columns)  to the div class= feature-text 
 
 ![image](https://user-images.githubusercontent.com/96391154/169925167-a62245f7-09f1-4077-b668-f49304fa3146.png)
-Finally, I placed all the content of the footer in the footer tags. The div class Row holds address  information. The br tag added line breaks.  The unordered list holds all the navigational hyperlinks. 
+Finally, I placed all the content of the footer in the footer tags. The div class Row holds address  information. The br tag added line breaks.  The unordered list holds all the navigational hyperlinks. The fontawesome icons were added with the i tag. 
 
 
